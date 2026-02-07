@@ -41,7 +41,7 @@ It highlights my ability to integrate **robotics, renewable energy, and embedded
 ## Media
 Here are images of the prototype and testing phases:
 
-![Wheelchair Prototype](images/wheelchair-prototype.jpeg)  
+wheelchair-prototype.jpeg  
 *The completed smart solar-powered wheelchair prototype.*
 
 ![Solar Panel Integration](images/solar-panel-integration.jpeg)  
