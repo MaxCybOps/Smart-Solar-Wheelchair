@@ -59,5 +59,10 @@ Here are images of the prototype and testing phases:
 - UI dashboard for live monitoring of wheelchair performance.  
 - Enhanced AI-based obstacle detection.  
 
-## Repository Structure
+## How to Run
+1. **Install Arduino IDE** from [arduino.cc](https://www.arduino.cc/en/software).  
+2. **Clone this repository** or download the `.zip` file.  
+   ```bash
+   git clone https://github.com/MaxCybOps/Smart-Solar-Wheelchair.git
+
 
