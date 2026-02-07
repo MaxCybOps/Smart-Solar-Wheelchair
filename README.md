@@ -41,16 +41,16 @@ It highlights my ability to integrate **robotics, renewable energy, and embedded
 ## Media
 Here are images of the prototype and testing phases:
 
-![Wheelchair Prototype](wheelchair-prototype.jpeg)
+![Wheelchair Prototype](images/wheelchair-prototype.jpeg)  
 *The completed smart solar-powered wheelchair prototype.*
 
-![Solar Panel Integration](solar-panel-integration.jpeg)  
+![Solar Panel Integration](images/solar-panel-integration.jpeg)  
 *Solar panel and battery integration for sustainable power.*
 
-![Control System Setup](control-system-setup.jpeg)  
+![Control System Setup](images/control-system-setup.jpeg)  
 *Arduino Nano, IR sensors, and wiring for intelligent control.*
 
-![Final Defense Presentation](final-defense-presentation.jpeg)  
+![Final Defense Presentation](images/final-defense-presentation.jpeg)  
 *Team presentation and successful defense of the project.*
 
 
